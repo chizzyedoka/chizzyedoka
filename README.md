@@ -1,5 +1,5 @@
 ### Hi there 👋,
-as a Data Scientist and backend engineer, I love using Python for data exploration and finding new insights. I also like querying databases with SQL and NoSQL, I'm a leetcoder and competitive programmer. I'm good at Data structures and Algorithms. 
+as a software engineer, I love bringing ideas to life by building scalable applications. I'm a leetcoder and competitive programmer. I'm good at Data structures and Algorithms. 
 
 <!--
 **chizzyedoka/chizzyedoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
